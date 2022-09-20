@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
-$link-color: $blue-000;
+color-scheme: _variables.scss
 title: Scientific Computing with Python
 description: A course on scientific computing in the Python ecosystem.
 baseurl: /
