@@ -1,22 +1,21 @@
 # Syllabus
 
-Course number: [CAAM 37830=STAT 37830](https://stat.uchicago.edu/academics/course-info/2021-2022-courses/autumn-2021-stat-37830/)
+Course number: [CAAM 37830=STAT 37830](https\://stat.uchicago.edu/academics/course-info/2022-2023-courses/autumn-2022-stat-37830/)
 
 ## People
-Instructor:  [Yuehaw Khoo](https://stat.uchicago.edu/people/profile/yuehaw-khoo/). Office Hours TBD.
+Instructor:  [Jeremy Hoskins](https://stat.uchicago.edu/people/profile/jeremy-hoskins/). Office Hours TBD.
 
-TA: [Yian Chen](https://cam.uchicago.edu/people/profile/yian-chen/). PhD student in the Committee on Computational and Applied Mathematics. (Zoom) Office Hours TBD.
-
-TA: [Sue Parkinson](sueparkinson@uchicago.edu). PhD student in the Committee on Computational and Applied Mathematics. (In person) Office Hours TBD.
+TA: [Yian Chen](https://cam.uchicago.edu/people/profile/yian-chen/). PhD student in the Committee on Computational and Applied Mathematics. 
+TA: [Yifan Peng](https://cam.uchicago.edu/people/profile/yifan-peng/). PhD student in the Committee on Computational and Applied Mathematics. 
 
 
 ## Course Format
 
-This course is scheduled to meet T/TH 9:30 AM–10:50 PM. 
+This course is scheduled to meet T/TH 2:00 PM - 3:20 PM in Stuart 104
 
-Classes will be in person. Some material (including video) may be posted in extra to lectures to help students in assignments.
+Classes will be in person. Some additional material (including video) may be posted.
 
-Homework will be posted Thursday, and due the following Thursday.  We plan to have a homework assignment almost every week.
+Homework will be posted Thursday, and due the following Thursday.  There will be a homework assignment approximately every week.
 
 There will be a course-long group project.  There will be a midterm checkpoint, and a final report.  Groups will be assigned a few weeks into the quarter.
 
@@ -29,8 +28,6 @@ We will open discussion topics on Canvas where you can ask (or answer) questions
 You will need
 1. A computer, with the ability to install software and run programs
 2. An internet connection
-
-Sue's office hours will be held in person, and Yian's office hours will be held via zoom.
 
 We will assume you are running some [UNIX-based operating system](https://en.wikipedia.org/wiki/Unix) on your computer.  For most people, this will mean either Mac or Linux.  We will not support troubleshooting Windows issues - if you have windows on your computer, consider using the [Windows Linux Subsystem](https://docs.microsoft.com/en-us/windows/wsl/install-win10), or dual-booting or single-booting some version of Linux.
 
