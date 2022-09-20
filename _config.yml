@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
 title: Scientific Computing with Python
 description: A course on scientific computing in the Python ecosystem.
 baseurl: /
