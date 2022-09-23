@@ -19,7 +19,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * and [A Rebuttal](https://sinews.siam.org/Details-Page/what-kind-of-science-is-computational-science-a-rebuttal) by T. Kolda. **Recommended**
 * [A Science-Based Case for Large-Scale Simulation](https://www.pnnl.gov/scales/docs/volume1_300dpi.pdf) US Department of Energy **Optional**
 
-## Day 01 - 9/28
+## Day 01 - 9/29
 
 ### Homework
 * see the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control. [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c213fff-5ce6-46a5-a673-ac4d00de5526)]
@@ -37,17 +37,5 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [PEP 0008 - Style Guide](https://www.python.org/dev/peps/pep-0008) (just skim and read anything interesting) **Required**
 * [Array Programming with NumPy](https://www.nature.com/articles/s41586-020-2649-2) by Harris, et al. **Recommended**
 
-## Day 02 - 10/5
-
-### Class Material
-
-0. [Functions in Python](https://caam37830.github.io/book/00_python/functions.html) 
-1. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) 
-2. [Recursion](https://caam37830.github.io/book/01_analysis/recursion.html) 
-
-### Reading
-* [Functions](https://docs.python.org/3/tutorial/controlflow.html#defining-functions) **Required**
-* [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
-* [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
 
