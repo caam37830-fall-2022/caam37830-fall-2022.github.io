@@ -22,7 +22,6 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 ## Day 01 - 9/29
 
 ### Homework
-* see the [git tutorial](https://github.com/caam37830/git-tutorial) if you are not familiar with git version control. [[Video](https://uchicago.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7c213fff-5ce6-46a5-a673-ac4d00de5526)]
 * Homework 0 released
 
 
