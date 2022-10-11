@@ -55,3 +55,21 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 
+## Day 03 - 10/4
+
+### Class Material
+
+0. [Decorators](https://caam37830.github.io/book/00_python/decorators.html) 
+1. [Modules](https://caam37830.github.io/book/00_python/modules.html) 
+2. [Convergence of Algorithms](https://caam37830.github.io/book/01_analysis/convergence.html) 
+3. [Root Finding](https://caam37830.github.io/book/04_functions/roots.html) 
+
+### Reading
+* [Classes](https://docs.python.org/3/tutorial/classes.html) **Required** at least through 9.5 (inheritance)
+* [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
+* [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
+
+
+### Reading
+
+* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
