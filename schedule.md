@@ -19,7 +19,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * and [A Rebuttal](https://sinews.siam.org/Details-Page/what-kind-of-science-is-computational-science-a-rebuttal) by T. Kolda. **Recommended**
 * [A Science-Based Case for Large-Scale Simulation](https://www.pnnl.gov/scales/docs/volume1_300dpi.pdf) US Department of Energy **Optional**
    
-## Day 01 - 9/27
+## Day 01 - 9/29
 
 ### Homework
 * Homework 0 released
@@ -40,7 +40,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [More on defining functions](https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions) **Required**
 * [Function definitions](https://docs.python.org/3/reference/compound_stmts.html#function-definitions) **Recommended**
 
-## Day 02 - 9/29
+## Day 02 - 10/4
 
 ### Class Material
 
@@ -55,7 +55,7 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [Class definitions](https://docs.python.org/3/reference/compound_stmts.html#class-definitions) **Recommended**
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 
-## Day 03 - 10/4
+## Day 03 - 10/6
 
 ### Class Material
 
@@ -70,6 +70,54 @@ This course follows a T/TH schedule.  There is a section for each day, with mate
 * [Modules](https://docs.python.org/3/tutorial/modules.html) **Required**
 
 
+## Day 04 - 10/11
+
+### Class Material
+
+0. [Vectorization, numpy ufuncs, numba](https://caam37830.github.io/book/09_computing/performance/numpy_ufuncs.html)
+1. [Memory layout](https://caam37830.github.io/book/02_linear_algebra/memory.html)
+2. [Dense Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/numpy_scipy_linalg.html)
+
+
 ### Reading
 
-* [Newton's Method](https://mathworld.wolfram.com/NewtonsMethod.html) on Wolfram Mathworld **Recommended**
+* [NumPy Ufuncs](https://numpy.org/doc/stable/reference/ufuncs.html) **Recommended**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
+
+## Day 05 - 10/13
+
+### Class Material
+
+
+0. [Dense Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/numpy_scipy_linalg.html)
+
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 13 - 18 (Creation of matrices) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 28 - 38 (Basic Matrix Manipulation) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 38 - 41 (Matrix Factorizations) **required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 54 - 55 (Eigenvalue Decompositions) **required**
+
+## Day 06 & 07 - 10/18 & 10/20
+
+### Class Material
+
+0. [SciPy BLAS and LAPACK Interfaces](https://caam37830.github.io/book/02_linear_algebra/blas_lapack.html)
+1. [Sparse matrix formats, `scipy.sparse`](https://caam37830.github.io/book/02_linear_algebra/sparse.html)
+2. [Linear operators](https://caam37830.github.io/book/02_linear_algebra/linearoperators.html)
+3. [Sparse Linear Algebra](https://caam37830.github.io/book/02_linear_algebra/sparse_linalg.html)
+
+### Reading
+
+* [LAPACK on netlib](https://www.netlib.org/lapack/) **Optional**
+* [BLAS on netlib](https://www.netlib.org/blas/) **Optional**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 19 - 28 (Creation of sparse matrices, linear operators) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 44 - 51 (Sparse direct, iterative methods) **Required**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 56 - 57 (`eigs`, `eigsh`) **Required**
+* [Finding Structure with Randomness: Probabilistic Algorithms for Constructing Approximate Matrix Decompositions](http://users.cms.caltech.edu/~jtropp/papers/HMT11-Finding-Structure-SIREV.pdf) (Halko, Martinsson, Tropp. 2009) **Recommended** - you can just skim and read the algorithms on a first pass.
+
+
