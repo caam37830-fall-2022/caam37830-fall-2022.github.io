@@ -140,7 +140,7 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 
 ### Class Material
 0. [Symbolic Computing with SymPy](https://caam37830.github.io/book/04_functions/sympy.html) 
-1. [Differentiation](https://caam37830.github.io/other_files/differentiation.ipynb) 
+1. [Differentiation](https://caam37830-fall-2022.github.io/other_files/differentiation.ipynb) 
 
 ### Reading
 
