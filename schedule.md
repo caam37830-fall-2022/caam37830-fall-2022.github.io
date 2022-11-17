@@ -147,3 +147,63 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 * [SymPy Introduction](https://docs.sympy.org/latest/tutorial/intro.html) **Required** Look around the [documentation](https://docs.sympy.org/latest/index.html) as well.
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 105 - 110 (Differentiation) **Required**
 
+
+## Day 10 - 11/1
+
+### Class Material
+0. [Initial Value Problems](https://caam37830.github.io/book/04_functions/ode_initial.html)
+1. [More on Plotting](https://caam37830.github.io/book/00_python/pyplot.html) 
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp 165 - 178 (Initial Value Problems) **Required**
+* [SciPy `solve_ivp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_ivp.html) **Required**
+* [PyPlot Use FAQ](https://matplotlib.org/faq/usage_faq.html) **Required** (first half)
+* [Matplotlib tutorials](https://matplotlib.org/tutorials/index.html) **Recommended** take a look 
+
+
+## Day 11 - 11/3
+
+### Class Material
+0. [Integration, Quadrature](https://caam37830.github.io/book/04_functions/integration.html)
+1. [Basic Interpolation](https://caam37830.github.io/book/04_functions/interpolation.html)
+
+### Reading
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 111-123 **Required**
+* [`scipy.integrate.quad`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html#scipy.integrate.quad) **Recommended**
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 61 - 104 (Interpolation and Approximation) **Required**
+* [SciPy interpolation tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/interpolate.html) **Recommended**
+
+## Day 12 - 11/8
+
+### Class Material
+0. [Optimization](https://caam37830.github.io/book/03_optimization/scipy_opt.html) 
+
+
+### Reading
+
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 125-163 (Optimization) **Required** OK to skim over code.
+* [SciPy Optimize Tutorial](https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html) **Recommended**
+
+## Day 13 - 11/10
+
+### Class Material
+0. [Boundary Value Problems](https://caam37830.github.io/book/04_functions/bvp.html) 
+
+### Reading
+* [SciPy `integrate.solve_bvp`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.solve_bvp.html) **Recommended**
+* [SymPy `ode.dsolve`](https://docs.sympy.org/latest/modules/solvers/ode.html#dsolve) **Recommended**
+
+
+## Day 14 - 11/15
+
+### Class Material
+0. [Pandas](https://caam37830.github.io/book/07_data/pandas.html)
+1. [Scikit Learn](https://caam37830.github.io/book/07_data/sklearn.html)
+
+### Reading
+* [Pandas Tutorials](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html) **Recommended** to skim and see if you find something relevant
+* [Scikit learn introduction](https://scikit-learn.org/stable/tutorial/basic/tutorial.html) **Required**
+* [Scikit learn user guide](https://scikit-learn.org/stable/user_guide.html) **Recommended** 
+* [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 275-309 (Inference and Data Analysis) **Recommended**  
+
