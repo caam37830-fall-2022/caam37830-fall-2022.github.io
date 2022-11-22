@@ -207,3 +207,16 @@ You may also want to look at the [Wikipedia entry for Agent-based model](https:/
 * [Scikit learn user guide](https://scikit-learn.org/stable/user_guide.html) **Recommended** 
 * [Mastering SciPy](https://catalog.lib.uchicago.edu/vufind/Record/11908913) pp. 275-309 (Inference and Data Analysis) **Recommended**  
 
+
+## Day 15 - 11/17
+
+### Class Material
+0. [Low ranks and the FMM](https://caam37830-fall-2022.github.io/other_files/low_rank_demo.ipynb)
+1. [FMM and orbital dynamics](https://caam37830-fall-2022.github.io/other_files/nbody.ipynb)
+ 
+NOTE: you might need an upgraded version of numpy to run these scripts.  You can do this by typing "pip install numpy --upgrade". I recommend you do this by creating a new conda environment 'pycoursefmm', activating this new environment, and then running this command, so that it doesn't interfere with any of the previous scripts.
+
+
+### Some extra reading
+* [The first FMM](https://users.flatironinstitute.org/~ahb/m126w12/public_html/Greengard1987JCP_Rokhlin_FMM_Coulomb_algorithm.pdf)
+* [The fast Gauss transform](https://www.math.nyu.edu/~greengar/fgt_1991.pdf)
